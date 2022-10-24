@@ -1,0 +1,21 @@
+body{
+    font-family:arial;
+    background-color: #ebe8e8;
+    margin-left:60px;
+
+}
+h1{
+    color:#27e69a;
+    text-shadow: black 1px;
+}
+
+li{
+    font-weight: bold;
+    font-size: larger;
+}
+.list{
+    font-size: small;
+}
+.repair{
+    margin-left: 80px;
+}
