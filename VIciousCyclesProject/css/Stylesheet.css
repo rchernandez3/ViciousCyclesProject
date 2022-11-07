@@ -1,14 +1,17 @@
 body{
-    font-family:arial;
-    background-color: #ebe8e8;
+    font-family: arial;
+    background-color: #ffffff;
     margin-left:60px;
-
+    background:linear-gradient(#ffffff, #e7e7e7);
+    margin-top: 30px;
+    margin-right: 70px;
 }
-h1{
-    color:#27e69a;
-    text-shadow: black 1px;
+li a:hover{
+    color:darkorange;
 }
-
+h1 a:hover{
+    color: cadetblue;
+}
 li{
     font-weight: bold;
     font-size: larger;
@@ -18,4 +21,50 @@ li{
 }
 .repair{
     margin-left: 80px;
+}
+nav ul li{
+    display: inline-block;    
+}
+li a{
+    color: cadetblue;
+    padding: 0px 70px 0px;
+
+}
+.services{
+    background-color: #ebe8e8;
+    margin-left: 0px;
+    padding: 20px;
+    margin-right:60px;
+}
+.footinfo{
+    font-size: small;
+    color: #a99f8f;  
+}
+img{
+    margin-left: 750px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.navigations{
+    background-color: #e7e7e7;
+    padding: 15px;
+    border-radius: 5%;
+}
+footer div h4 p{
+    display: inline;
+}
+.tune li{
+    display:inline;
+    border: 105px;
+}
+.foot1{
+    margin-left: 100pxs ;
+}
+.foot2{
+    margin-left: 70px;
+}
+.foot3{
+    margin-right: 70px;
 }
